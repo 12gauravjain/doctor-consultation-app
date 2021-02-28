@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 void main() => runApp(MyApp());
 
+// comment added
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
